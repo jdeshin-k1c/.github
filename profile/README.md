@@ -1,7 +1,7 @@
 ## Hi there 👋
 The __k-)__ is a Podman container orchestration tool written in 1C.
 
-The main goal of this project is creating a tool for cloud-like managing of 1C:Enterprise infrastructure that based on containers.
+The main goal of this project is creating a tool for cloud-like managing of 1C:Enterprise infrastructure.
 
 <!--
 
