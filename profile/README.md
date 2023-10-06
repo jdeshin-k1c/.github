@@ -1,6 +1,8 @@
 ## Hi there 👋
 The main goal of this project is creating a tool for cloud-like managing of 1C:Enterprise infrastructure.
 
+This tool can be helpful for large organizations, that have many independed 1C:Enterprise infrastructures.
+
 <!--
 
 **Here are some ideas to get you started:**
