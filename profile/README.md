@@ -1,3 +1,5 @@
+## k-) (контейнеры 1С)
+Основная цель проекта - создание инструмента для "cloud-like" управлением инфраструктурой 1С:Предприятие.
 ## Hi there 👋
 The main goal of this project is creating a tool for cloud-like managing of 1C:Enterprise infrastructure.
 
