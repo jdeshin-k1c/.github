@@ -1,9 +1,4 @@
-## k-) (контейнеры 1С)
-Основная цель проекта - создание инструмента для "cloud-like" управлением инфраструктурой 1С:Предприятие.
-## Hi there 👋
-The main goal of this project is creating a tool for cloud-like managing of 1C:Enterprise infrastructure.
-
-This tool can be helpful for large organizations, that have many independed 1C:Enterprise infrastructures.
+__k-)__ (kонтейнеры 1С) - оркестратор контейнеров с открытым исходным кодом, распространяемый под лицензией GNU AGPL v3.
 
 <!--
 
